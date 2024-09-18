@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aqnad.github.io/QOA/sitemap.QOA.gz
